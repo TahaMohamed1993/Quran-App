@@ -1,6 +1,11 @@
-# new_application_1
+# Quran-App
 
-A new Flutter project.
+
+A new Flutter project.Quran-App
+## Screen Shot
+![Screenshot 2023-05-24 171227](https://github.com/TahaMohamed1993/Quran-App/assets/91631512/403be85d-676a-42f5-88ef-2127316c2421)
+![Screenshot 2023-05-24 171331](https://github.com/TahaMohamed1993/Quran-App/assets/91631512/e7075a13-4a0e-4baa-89f7-2f95b949a921)
+
 
 ## Getting Started
 
